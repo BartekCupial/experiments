@@ -33,6 +33,8 @@
             "episodes_played": 200
         }
     },
+    "total_input_tokens": 119794177,
+    "total_output_tokens": 116611,
     "client": {
         "client_name": "openai",
         "model_id": "gpt-4o-mini-2024-07-18",

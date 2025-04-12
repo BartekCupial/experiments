@@ -970,6 +970,94 @@
           "verified": true,
           "oss": true,
           "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            33.33333333333333,
+            4.303314829119348,
+            120
+          ],
+          "textworld": [
+            32.549019607843135,
+            6.880835167725513,
+            30
+          ],
+          "minihack": [
+            22.5,
+            6.60255632312213,
+            40
+          ],
+          "nle": [
+            1.638571629874851,
+            0.3780374377296403,
+            5
+          ],
+          "crafter": [
+            25.0,
+            4.128614119223852,
+            10
+          ],
+          "babyai": [
+            62.0,
+            6.864400920692204,
+            50
+          ],
+          "average": [
+            29.503487428508553,
+            2.1970088755554955
+          ],
+          "name": "grok-3-beta",
+          "folder": "submissions/LLM/2025-04-11_10-46-18_naive_grok-3-beta",
+          "date": "2025-04-11",
+          "trajs": true,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            56.666666666666664,
+            4.523600663516064,
+            120
+          ],
+          "textworld": [
+            49.21568627450981,
+            8.200127217125015,
+            30
+          ],
+          "minihack": [
+            17.5,
+            6.007807420348956,
+            40
+          ],
+          "nle": [
+            1.6937458032433108,
+            0.20935132629788197,
+            5
+          ],
+          "crafter": [
+            37.272727272727266,
+            4.887156383896586,
+            10
+          ],
+          "babyai": [
+            80.0,
+            5.656854249492381,
+            50
+          ],
+          "average": [
+            40.391471002857834,
+            2.2343711819764196
+          ],
+          "name": "gemini-2.5-pro-exp-03-25",
+          "folder": "submissions/LLM/2025-04-02_16-35-11_naive_gemini-2.5-pro-exp-03-25",
+          "date": "2025-04-11",
+          "trajs": true,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         }
       ]
     },
@@ -1327,6 +1415,45 @@
           "folder": "submissions/VLM/20240930_naive-gpt-4o-mini",
           "date": "2024-11-11",
           "trajs": false,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            53.333333333333336,
+            4.554200340426482,
+            120
+          ],
+          "minihack": [
+            12.5,
+            5.2291251658379725,
+            40
+          ],
+          "nle": [
+            1.638571629874851,
+            0.3780374377296403,
+            5
+          ],
+          "crafter": [
+            37.272727272727266,
+            4.626549327272535,
+            10
+          ],
+          "babyai": [
+            74.0,
+            6.203224967708331,
+            50
+          ],
+          "average": [
+            35.74892644718709,
+            2.0795418891934045
+          ],
+          "name": "gemini-2.5-pro-exp-03-25",
+          "folder": "submissions/VLM/2025-04-02_16-35-11_naive_gemini-2.5-pro-exp-03-25",
+          "date": "2025-04-11",
+          "trajs": true,
           "site": null,
           "verified": true,
           "oss": true,
