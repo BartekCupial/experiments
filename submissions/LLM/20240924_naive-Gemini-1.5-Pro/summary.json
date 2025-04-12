@@ -33,6 +33,8 @@
             "episodes_played": 200
         }
     },
+    "total_input_tokens": 71153538,
+    "total_output_tokens": 51841,
     "client": {
         "client_name": "gemini",
         "model_id": "gemini-1.5-pro",
